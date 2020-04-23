@@ -1,0 +1,11 @@
+{
+  "name": "Yemeksepetikiller",
+  "version": "1.0",
+  "description": "Cok acim her sey cok guzel",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["yemeksepeti.js"],
+    "persistent": false
+  },
+  "permissions": ["http://www.yemeksepeti.com/", "storage"]
+}
